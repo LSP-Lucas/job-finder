@@ -2,7 +2,7 @@
 
 Portal para programadores encontrarem vagas de trabalho.
 
-<img src="https://ik.imagekit.io/mqh5rdpeme/img-home-job_finder_ps80B4X54.png" alt="Página Home Job Finder">
+- [clique aqui para acessar](https://lsp-lucas.github.io/job-finder/ "clique aqui para acessar")
 
 ## 💻 Tecnologias Utilizadas
 - Node
